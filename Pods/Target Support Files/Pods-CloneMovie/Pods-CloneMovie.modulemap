@@ -1,0 +1,6 @@
+framework module Pods_CloneMovie {
+  umbrella header "Pods-CloneMovie-umbrella.h"
+
+  export *
+  module * { export * }
+}

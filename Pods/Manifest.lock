@@ -1,0 +1,32 @@
+PODS:
+  - CollectionViewSlantedLayout (3.1.1)
+  - DLProgressHUD (1.0.0)
+  - Kingfisher (8.1.3)
+  - SwiftLint (0.57.1)
+  - Swinject (2.9.1)
+
+DEPENDENCIES:
+  - CollectionViewSlantedLayout (~> 3.1)
+  - DLProgressHUD (~> 1.0)
+  - Kingfisher
+  - SwiftLint
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - CollectionViewSlantedLayout
+    - DLProgressHUD
+    - Kingfisher
+    - SwiftLint
+    - Swinject
+
+SPEC CHECKSUMS:
+  CollectionViewSlantedLayout: 24397455acd2461960bc45d394e0ef99c17d03ce
+  DLProgressHUD: 6316b2f165442924fa0c1779645c72b17a32b3e4
+  Kingfisher: f2af9028b16baf9dc6c07c570072bc41cbf009ef
+  SwiftLint: 92196976e597b9afec5dbe374810103e6c1d9d7c
+  Swinject: a827d508c6270da03ec74e558e728917a888fa9b
+
+PODFILE CHECKSUM: 11ea8fb3da0563ad3f090369424b3b2b72517e18
+
+COCOAPODS: 1.16.2

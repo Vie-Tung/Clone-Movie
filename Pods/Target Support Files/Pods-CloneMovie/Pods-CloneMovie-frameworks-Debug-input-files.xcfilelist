@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-CloneMovie/Pods-CloneMovie-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CollectionViewSlantedLayout/CollectionViewSlantedLayout.framework
+${BUILT_PRODUCTS_DIR}/DLProgressHUD/DLProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/Swinject/Swinject.framework
